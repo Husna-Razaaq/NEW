@@ -1,0 +1,11 @@
+View Event: This event should be fired when a page is loaded.
+Partial View Event: This event should be fired when the impressions on the page are loaded to the user.
+Experiment Event: This event should be fired when the experiment is been turned on for the user.
+Click Event: This event should be fired when the user  presses a button on the page.
+Error Event: This event should be fired when the user is presented with an error message.
+Login Event: This event should be fired when the user is successfully signed in to the app.
+Logout Event: This event should be fired when the user has successfully signed out from the app.
+Basket Create Event: This event should be fired when a user adds first product to the basket and basket is initialized.
+Basket Add Event: This event should be fired when a user adds product to the basket.
+Medallia Survey Submit Event: This event should be fired when the user has successfully submitted the survey.
+OUT OF THE BOX Lifecycle Events
